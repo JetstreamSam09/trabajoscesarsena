@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "69d595169657790f6297a07e"
+  },
+  "tipo": "producto",
+  "nombre": "Arena premium",
+  "precio": 35000,
+  "descripcion": "Actualizado",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69d597539657790f6297a07f"
+  },
+  "tipo": "producto",
+  "nombre": "Comida premiun",
+  "precio": 35000,
+  "descripcion": "Actualizado",
+  "__v": 0
+}]
